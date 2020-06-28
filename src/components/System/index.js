@@ -1,1 +1,1 @@
-export { Box, Text, Flexbox, Link, Button, Heading } from './components'
+export { Link } from './components'

@@ -4,7 +4,7 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 import Header from 'components/Header'
 import Footer from 'components/Footer'
-import { Box } from 'components/System'
+import { Box } from '@ballchy/styled-bits'
 import { GlobalStyle } from 'store/theme'
 
 const Layout = ({ children }) => {

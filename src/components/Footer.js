@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flexbox, Text } from 'components/System'
+import { Box, Flexbox, Text } from '@ballchy/styled-bits'
 
 const Footer = () => {
   return (

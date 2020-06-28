@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Chi Hou Yeung <ballchy@gmail.com>",
   "dependencies": {
+    "@ballchy/styled-bits": "^1.1.0",
     "@styled-system/should-forward-prop": "^5.1.5",
     "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.20.12",

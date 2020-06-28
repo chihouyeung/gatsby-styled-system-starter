@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import { Box, Link, Flexbox, Text } from 'components/System'
+import { Box, Flexbox, Text } from '@ballchy/styled-bits'
+import { Link } from 'components/System'
 
 const Header = ({ siteTitle }) => {
   return (
